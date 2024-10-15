@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="ATM_Joint_Account.Account_Holder"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="Bus_Reservation.Ticket_Counter"/>
+    <fullyQualifiedTypeName name="Bus_Reservation.Ticekt_Handler"/>
+</qualifiedTypeNameHistroy>
