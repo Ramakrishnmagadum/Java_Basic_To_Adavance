@@ -1,0 +1,15 @@
+package Excuter_Services;
+
+public class Fixed_thread_pool {
+
+}
+
+class example implements Runnable{
+
+	@Override
+	public void run() {
+		System.out.println("Inside");
+	}
+	
+}
+

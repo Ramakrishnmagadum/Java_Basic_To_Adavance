@@ -1,0 +1,16 @@
+package new_Chapter;
+
+public class Voltile_keyword {
+public static void main(String[] args) {
+	Voltile_keyword t1=new Voltile_keyword();
+	t1.start();
+}
+}
+
+class example  extends Thread {
+	@Override
+	public void run() {
+		super.run();
+		System.out.println("rerr");
+	}
+}

@@ -1,0 +1,15 @@
+package new_Chapter;
+
+public class Voltile_keyword  extends Thread{
+	@Override
+		public void run() {
+			// TODO Auto-generated method stub
+//			super.run();
+			System.out.println("sdfsf");
+		}
+public static void main(String[] args) {
+	Voltile_keyword t1=new Voltile_keyword();
+	t1.start();
+}
+}
+

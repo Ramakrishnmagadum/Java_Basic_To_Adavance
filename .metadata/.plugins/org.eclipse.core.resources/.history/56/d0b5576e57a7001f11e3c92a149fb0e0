@@ -1,0 +1,19 @@
+package new_Chapter;
+
+public class Voltile_keyword {
+public static void main(String[] args) {
+	Thread t1=new Thread();
+	Thread t2=new Thread();
+	t1.start();
+	t2.start();
+}
+}
+
+//class example extends Thread{
+//	static void method1() {
+//		
+//		Thread t1=new Thread();
+//		Thread t2=new Thread();
+//	}
+//	
+//}
